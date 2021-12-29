@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-29T11:19:09 IST" name="Default suite" finished-at="2021-12-29T11:20:48 IST" duration-ms="99195">
+    <groups>
+    </groups>
+    <test started-at="2021-12-29T11:19:09 IST" name="Default test" finished-at="2021-12-29T11:20:48 IST" duration-ms="99195">
+      <class name="Casestudy.ksrtc">
+        <test-method signature="f()[pri:0, instance:Casestudy.ksrtc@1eb5174b]" started-at="2021-12-29T11:19:09 IST" name="f" finished-at="2021-12-29T11:20:48 IST" duration-ms="99144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Casestudy.ksrtc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
